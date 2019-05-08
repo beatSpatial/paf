@@ -1,8 +1,11 @@
+from django.urls import resolve
 from django.test import TestCase
+from evaluatepeer.views import evaluate
 
 
 # Create your tests here.
-class SmokeTest(TestCase):
+class EvaluatePageTest(TestCase):
 
-    def test_bad_maths(self):
-        self.assertEqual(1 + 1, 3)
+    def test_root_url_resolves_to_evaluate_view(self):
+        found = resolve('/')
+        self.assertEqual(found.func, evaluate)
