@@ -1,10 +1,14 @@
-Xiao Wang needs to award his team members points
-100 points are split among himself and the members of his group
+Xiao Wang needs to award his team members points <br>
 
-These points are used to calculate a 'PAF' and a 'SAPA'
-PAF stands for Peer Assessment Factor
-SAPA stands for Self Assessment over Peer Assessment
-SAPA gives an indication of how realistically students judge their individual contribution to a group project
+100 points are split among himself and the members of his group <br>
+
+These points are used to calculate a 'PAF' and a 'SAPA' <br>
+
+PAF stands for Peer Assessment Factor<br>
+
+SAPA stands for Self Assessment over Peer Assessment<br>
+
+SAPA gives an indication of how realistically students judge their individual contribution to a group project<br>
 
 The calculation and interpretation of PAF and SAPA is explained here:
 https://elearning.uq.edu.au/guides/group-peer-assessment/paf-formula-and-moderation-overview
